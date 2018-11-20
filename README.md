@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Libs`
+axios
+rematch
+Redux
+styled-components
+
 ## Available Scripts
 
 In the project directory, you can run:
