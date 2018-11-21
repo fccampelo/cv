@@ -6,7 +6,7 @@ import styled from 'styled-components';
 import { fontFamily } from '../../config/constantes';
 
 //components
-import Div           from '../block/div';
+import Div           from '../Div';
 import Skills        from '../Skills';
 import Contact       from '../Contact';
 import Profile       from '../Profile';

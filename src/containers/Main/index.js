@@ -2,7 +2,7 @@ import React, { Component }   from 'react';
 import { connect }            from "react-redux";
 
 //components
-import Section from '../../components/block/section';
+import Section from '../../components/Section';
 import Education  from '../../components/Education';
 import Experience from '../../components/Experience';
 
